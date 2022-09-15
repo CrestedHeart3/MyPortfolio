@@ -1,7 +1,7 @@
 # My Portfolio
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![Discord](https://img.shields.io/discord/975420390081978390)
+<a src="https://discord.gg/qpVXBNryuM">![Discord](https://img.shields.io/discord/975420390081978390)</a>
 ![Github Followers](https://img.shields.io/github/followers/CrestedHeart3)
 
 Project name is a `Jamie Portfolio` that allows `others` to know moer about `me`.
